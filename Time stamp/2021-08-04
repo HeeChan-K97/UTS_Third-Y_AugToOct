@@ -1,0 +1,19 @@
+<Thermodymanics>
+
+Latent Heat: The amount of energy absorbed or released during a phase-change process.
+
+Latent heat of fusion: The amount of energy absorbed during melting. It is equivalent to the amount
+                       of energy released during freezing.
+                       
+Latent heat of vaporization: The amount of energy absorbed during vaporization and it is equivalent to the
+                             energy released during condensation.
+                             
+The magnitudes of the latent heats depend on the temperature or pressure at which the phase change occurs.
+
+At 1 atm pressure, the latent heat of fusion of water is 334 kJ/kg and the latent heat of vaporization is 2257 kJ/kg.
+
+The atmospheric pressure, and thus the boiling temperature of water, decrease with elevation.
+
+Critical Point: The point at which the saturated liquid and saturated vapor states are identical.
+Triple Point: The point at which the liquid, solid, and vapor phases can exist together. On P-v or T-v
+              diagrams, these triple-phase states form a line called triple line.
