@@ -1,1 +1,18 @@
+Company Name: QuantumScape
+Headquarter: San Jose, California, USA
+CEO: Jagdeep Singh
 
+QuantumScape is a company located in the US that does research about batteries for electric cars.
+Conventional lithium-ion battery consists of three layers which are cathode, anode and polymer separator 
+keeping the electrodes apart and finally two electrical contacts at the top and bottom. When the conventional 
+battery is being charged lithium-ion travels through the separator to the anode and carbon atoms in the anode 
+hosts the lithium ion until it is needed. Solid-state lithium-metal has only two main layers which are cathode 
+and a solid-state ceramic separator. As soon as it charges the lithium leaves the cathode through the ceramic 
+separator and deposits between anode electrical contact and the separator forming a pure metallic lithium. 
+This metallic lithium allows the energy of the solid-state battery to be stored in a smaller volume enabling 
+higher density compared to the conventional lithium-ion battery.
+
+Advantages of solid-state lithium metal:
+•	Greater range from higher energy density
+•	Faster charging rate, 15-minute fast charge
+•	Safe operation
